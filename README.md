@@ -1,4 +1,4 @@
-# AsteroidsDataAnalysis
+# Asteroids Data Analysis
 ## A small Data Analysis of NASA dataset which contains information about asteroids.
 ![1d79d282-7d7a-4d48-a388-54036e41247b](https://user-images.githubusercontent.com/63999845/212189842-416322b5-79f2-402e-afef-4c284210befd.jpg)
 ![ac050a8d-660e-40f7-9cfd-16254fa7e35f](https://user-images.githubusercontent.com/63999845/212189874-490eb26f-d72b-4f58-bd4d-713b0d59d2db.jpg)
